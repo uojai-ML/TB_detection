@@ -1,4 +1,4 @@
-# Tuberculosis detection system viia chest x-rays
+# Tuberculosis detection system via chest x-rays
 This project is a Machine Learning web-based system designed to detect Tuberculosis via chest x-ray images. 
 
 
