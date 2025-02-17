@@ -1,9 +1,9 @@
-# TB_detection
+# Tuberculosis detection system viia chest x-rays
 This project is a Machine Learning web-based system designed to detect Tuberculosis via chest x-ray images. 
 
 
 
-**Overview:**
+# Overview:
 
 **Objective:** The main goal for this project is to develop a Deep Learning model that will accurately diagnose Tuberculosis from chest x-ray images.
   
